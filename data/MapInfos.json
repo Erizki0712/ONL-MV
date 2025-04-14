@@ -1,5 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":893.4545454545455,"scrollY":498.54545454545456},
-{"id":2,"expanded":false,"name":"Nazarick Castle","order":2,"parentId":0,"scrollX":811,"scrollY":499}
+{"id":1,"expanded":false,"name":"Outside castle","order":1,"parentId":0,"scrollX":819,"scrollY":457},
+{"id":2,"expanded":false,"name":"Stellae Castle","order":2,"parentId":0,"scrollX":811,"scrollY":503},
+{"id":3,"expanded":false,"name":"Stellae Arena","order":3,"parentId":0,"scrollX":819,"scrollY":457}
 ]
