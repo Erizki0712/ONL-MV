@@ -1,0 +1,33 @@
+# Abaikan folder hasil save game
+save/
+
+# Abaikan file audio (biasanya besar)
+audio/
+
+# Abaikan video dan gambar yang berat
+img/movies/
+img/pictures/
+img/titles1/
+img/titles2/
+
+# Jangan abaikan gambar penting (bisa kamu sesuaikan)
+!img/characters/
+!img/faces/
+!img/icons/
+!img/system/
+
+# Abaikan backup atau cache (kalau ada)
+backup/
+temp/
+
+# File dan folder dari editor/OS
+.DS_Store
+Thumbs.db
+*.log
+
+# VSCode config folder
+.vscode/
+
+# Node.js kalau kamu pakai tooling tambahan (misalnya buat plugin)
+node_modules/
+package-lock.json
