@@ -1,7 +1,8 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Outside castle","order":3,"parentId":0,"scrollX":612,"scrollY":416.6666666666667},
-{"id":2,"expanded":false,"name":"Stellae Castle","order":1,"parentId":0,"scrollX":601.3333333333334,"scrollY":554},
-{"id":3,"expanded":false,"name":"Stellae Arena","order":2,"parentId":0,"scrollX":612,"scrollY":416.6666666666667},
-{"id":4,"expanded":false,"name":"Astra Plains","order":4,"parentId":0,"scrollX":612,"scrollY":416.6666666666667}
+{"id":1,"expanded":false,"name":"Outside castle","order":3,"parentId":0,"scrollX":650.4,"scrollY":390},
+{"id":2,"expanded":false,"name":"Stellae Castle","order":1,"parentId":0,"scrollX":799.1999999999999,"scrollY":579.6},
+{"id":3,"expanded":false,"name":"Stellae Arena","order":2,"parentId":0,"scrollX":650.4,"scrollY":390},
+{"id":4,"expanded":false,"name":"Astra Plains","order":4,"parentId":0,"scrollX":426.6666666666667,"scrollY":335.3333333333333},
+{"id":5,"expanded":false,"name":"Intro","order":5,"parentId":0,"scrollX":650.4,"scrollY":390}
 ]
